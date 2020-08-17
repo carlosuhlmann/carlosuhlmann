@@ -5,7 +5,7 @@
   
   
 ## :mailbox_with_no_mail: Contato: carlosuhlmann@hotmail.com
-:email: : carlosuhlmann@hotmail.com
+
 
 
 <!---
