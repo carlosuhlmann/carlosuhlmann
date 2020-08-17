@@ -1,5 +1,5 @@
 <h3 align="left">
- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Olá mundo! 
+ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Olá mundo, sou o Carlos! 
 </h3>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5547988518646">
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
