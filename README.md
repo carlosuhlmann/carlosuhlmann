@@ -3,13 +3,12 @@
 </h1>
 
 <h1>
-  🤘💻
+  🤘 💻 <img style="margin: 0 auto" alt="Brazil!" src="https://github.com/carlosuhlmann/carlosuhlmann/blob/master/brazil.gif" height="25"> :brazil: 
 </h1>
 
  
 
-carlosuhlmann@hotmail.com  <img style="margin: 0 auto" alt="Brazil!" src="https://github.com/carlosuhlmann/carlosuhlmann/blob/master/brazil.gif" height="25"> :brazil: 
-  
+carlosuhlmann@hotmail.com
 
  
 
