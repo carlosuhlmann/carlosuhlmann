@@ -1,6 +1,7 @@
 <h1 align="center">
   Hello World! 
 </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosuhlmann" alt="carlosuhlmann" /> </p>
 
 <h1 align="center">
   🤘 💻 <img style="margin: 0 auto" alt="Brazil!" src="https://github.com/carlosuhlmann/carlosuhlmann/blob/master/brazil.gif" height="25">
