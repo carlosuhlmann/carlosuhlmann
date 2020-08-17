@@ -1,7 +1,7 @@
-<h1 align="center">
+<h3 align="center">
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Olá mundo, sou o Carlos!! 
  
-</h1>
+</h3>
 
 
 <h1 align="center">
