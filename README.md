@@ -1,5 +1,6 @@
 <h1 align="center">
-  Hello World! 
+ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Olá mundo, sou o Carlos!! 
+ 
 </h1>
 
 
