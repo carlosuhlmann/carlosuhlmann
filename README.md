@@ -3,7 +3,7 @@
   🤘💻
 </h1>  
 
-<img alt="Brazil!" src="https://github.com/carlosuhlmann/carlosuhlmann/blob/master/brazil.gif"> :brazil:
+<img style="margin: 0 auto" alt="Brazil!" src="https://github.com/carlosuhlmann/carlosuhlmann/blob/master/brazil.gif" height="25"> :brazil:
   
   
 ## :mailbox_with_no_mail: Contato: carlosuhlmann@hotmail.com
