@@ -11,6 +11,11 @@
 
 :email: : carlosuhlmann@hotmail.com
 
+## GitHub Status:
+
+![github stats](https://github-readme-stats.vercel.app/api?username=carlosuhlmann&show_icons=true)
+
+## Top Languages Card:
 
 
 
