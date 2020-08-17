@@ -3,9 +3,7 @@
   🤘💻
 </h1>  
 
-<img style="margin: 0 auto" src="https://https://github.com/carlosuhlmann/carlosuhlmann/blob/master/brazil.gif" height="25"> :brazil:
-
-<img alt="GitHub top language" src="https://github.com/carlosuhlmann/calculadora/blob/master/calc.gif">
+<img alt="GitHub top language" src="https://github.com/carlosuhlmann/calculadora/blob/master/brazil.gif"> :brazil:
   
   
 ## :mailbox_with_no_mail: Contato: carlosuhlmann@hotmail.com
