@@ -8,9 +8,9 @@
 <h3>
   :mailbox_with_no_mail: Contato:
 </h3:
-<h4>
+<h6>
   :email: carlosuhlmann@hotmail.com
-</h4>
+</h6>
 
 
 
