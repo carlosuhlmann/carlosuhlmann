@@ -1,4 +1,4 @@
-<h3 align="center" style=background-color="red";>
+<h3 align="center">
  Olá mundo véio sem porteira!
 </h3>
 
