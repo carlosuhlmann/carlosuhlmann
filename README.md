@@ -2,6 +2,8 @@
   Hello World!
   🤘💻
 </h1>  
+
+<img style="margin: 0 auto" src="https://github.com/carlosuhlmann/mypage/blob/master/brazil.gif" height="25"> :brazil:
   
   
 ## :mailbox_with_no_mail: Contato: carlosuhlmann@hotmail.com
