@@ -15,7 +15,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="35" height="35"/>
 </p>
 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/>
+ 
 
 <hr>
 
