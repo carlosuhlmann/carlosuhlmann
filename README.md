@@ -4,13 +4,11 @@
 <h1 align="center">
   🤘 💻 <img style="margin: 0 auto" alt="Brazil!" src="https://github.com/carlosuhlmann/carlosuhlmann/blob/master/brazil.gif" height="25">
 </h1>
+<h5 align="center">
+  :mailbox_with_no_mail: carlosuhlmann@hotmail.com
+</h5>
 
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5547988518646">
-  <img align="center" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a>
-<a target="_blank" href="mailto:carlosuhlmann@hotmail.com">
-  <img align="center" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+
 
 
 </br>
@@ -34,9 +32,7 @@
 
 
 <!---
-<h5 align="center">
-  :mailbox_with_no_mail: carlosuhlmann@hotmail.com
-</h5>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosuhlmann" alt="carlosuhlmann" /> </p>
 ## GitHub Status:
