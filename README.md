@@ -6,7 +6,7 @@
 <img style="margin: 0 auto" alt="Brazil!" src="https://github.com/carlosuhlmann/carlosuhlmann/blob/master/brazil.gif" height="25"> :brazil:
   
 <h3>
-  Contato: carlosuhlmann@hotmail.com
+  :mailbox_with_no_mail: Contato:
 </h3:
 
 
