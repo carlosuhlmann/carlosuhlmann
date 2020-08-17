@@ -1,6 +1,9 @@
 <h3 align="left">
- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Hello World!! 
+ 
 </h3>
+<h1 align="center">
+  🤘 💻 <img style="margin: 0 auto" alt="Brazil!" src="https://github.com/carlosuhlmann/carlosuhlmann/blob/master/brazil.gif" height="25">
+</h1>
 
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5547988518646">
   <img align="center" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
@@ -34,9 +37,7 @@
 <h5 align="center">
   :mailbox_with_no_mail: carlosuhlmann@hotmail.com
 </h5>
-<h1 align="center">
-  🤘 💻 <img style="margin: 0 auto" alt="Brazil!" src="https://github.com/carlosuhlmann/carlosuhlmann/blob/master/brazil.gif" height="25">
-</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosuhlmann" alt="carlosuhlmann" /> </p>
 ## GitHub Status:
 ![github stats](https://github-readme-stats.vercel.app/api?username=carlosuhlmann&show_icons=true)
