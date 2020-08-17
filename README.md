@@ -14,13 +14,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" alt="javascript" width="20" height="20"/>
 
 </p>
+:mailbox_with_no_mail: carlosuhlmann@hotmail.com
   
 
 
 
 
 <!---
-:mailbox_with_no_mail: carlosuhlmann@hotmail.com
 ## GitHub Status:
 ![github stats](https://github-readme-stats.vercel.app/api?username=carlosuhlmann&show_icons=true)
 ## Top Languages Card:
