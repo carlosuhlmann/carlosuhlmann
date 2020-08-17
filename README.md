@@ -1,5 +1,3 @@
-<hr>
-
 <h3 align="center">
  Olá mundo véio sem porteira!
 </h3>
