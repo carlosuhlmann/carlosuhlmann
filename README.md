@@ -14,7 +14,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" alt="javascript" width="20" height="20"/>
 
 </p>
-:mailbox_with_no_mail: carlosuhlmann@hotmail.com
+
+<h3 align="center">
+  :mailbox_with_no_mail: carlosuhlmann@hotmail.com
+</h3>
   
 
 
